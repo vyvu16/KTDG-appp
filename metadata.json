@@ -1,0 +1,6 @@
+{
+  "name": "EngMatrix THCS - Thiết kế Ma trận, Đặc tả & Đề thi Tiếng Anh",
+  "description": "Hệ thống hỗ trợ giáo viên THCS thiết kế ma trận, bản đặc tả và đề kiểm tra định kì Tiếng Anh theo chuẩn GDPT 2018, tích hợp mã QR truy cập và quản lý kết quả học sinh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
